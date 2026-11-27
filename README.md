@@ -19,6 +19,7 @@ learning projects, published to show how we work and what a report looks like.
 |---|---|---|---|---|
 | 01 | VulnVault | Deliberately vulnerable vault used to benchmark our Verdict engine | 2 Critical · 2 High, each with a passing PoC | [REPORT](practice/01-vulnvault/REPORT.md) |
 | 02 | flash-arb-lab | Self-audit of our Balancer V2 flash-loan arbitrage contract + bot | 2 Medium · 5 Low · 6 Info (fixed or acknowledged) | [REPORT](practice/02-flash-arb-lab/REPORT.md) |
+| 03 | PasswordStore | Cyfrin's public training contract, reviewed in our $499 pre-audit format (2h timebox) | 2 High · 1 Info, both Highs with a passing PoC | [REPORT](practice/03-passwordstore/REPORT.md) |
 
 ## Report structure
 
